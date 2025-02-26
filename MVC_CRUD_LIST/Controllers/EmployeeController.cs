@@ -1,7 +1,10 @@
-﻿using MVC_CRUD_LIST.Models;
+using MVC_CRUD_LIST.Models;
 using MVC_CRUD_LIST.Repository;
 using System.Collections.Generic;
-using System.Web.Mvc;
+using Microsoft.AspNetCore.Mvc;
+
+using Microsoft.AspNetCore.Http;
+
 
 namespace MVC_CRUD_LIST.Controllers
 {
